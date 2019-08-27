@@ -1,7 +1,17 @@
 测试拉取文件
 
+<<<<<<< HEAD
 master
-
+=======
+V2版本
 1
 2
 3
+>>>>>>> refs/remotes/origin/V2
+
+<<<<<<< HEAD
+1
+2
+3
+=======
+>>>>>>> refs/remotes/origin/V2
